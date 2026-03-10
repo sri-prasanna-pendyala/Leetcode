@@ -18,8 +18,6 @@ public:
         while(i<n && j<n){
             if(nums[j]%2==1)
                 j++;
-            else if(nums[i]%2==0)
-                i++;
             else{
                 swap(nums[i++],nums[j++]);
             }
