@@ -7,14 +7,15 @@ public:
         return false;
     }
     string reverseVowels(string s) {
-        int i=0,j=s.size()-1;
-        while(i<=j){
-            if(isvowel(s[i]) && isvowel(s[j]))  //if both are vowels then swap them and inc and decrement them
-                swap(s[i++],s[j--]);
-            else if(!isvowel(s[i])) //if i is not vowel inc it
-                i++;
-            else
-                j--;    //else decrement j
+        int l=0,r=s.size()-1;
+        while(l<r && r>=0){
+            if(isvowel(s[l]) && isvowel(s[r])){
+                swap(s[l++],s[r--]);
+            }
+            while(l<r && !isvowel(s[l]))
+                l++;
+            while(r>l && !isvowel(s[r]))
+                r--;
         }
         return s;
     }
