@@ -30,6 +30,7 @@ My Solutions to the problems in Leetcode platform.
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,4 +85,12 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
