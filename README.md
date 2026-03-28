@@ -30,6 +30,7 @@ My Solutions to the problems in Leetcode platform.
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -73,6 +74,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
@@ -103,4 +105,8 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
