@@ -12,6 +12,7 @@ My Solutions to the problems in Leetcode platform.
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
