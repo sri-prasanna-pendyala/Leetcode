@@ -13,6 +13,7 @@ My Solutions to the problems in Leetcode platform.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ My Solutions to the problems in Leetcode platform.
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ My Solutions to the problems in Leetcode platform.
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
