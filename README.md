@@ -10,6 +10,7 @@ My Solutions to the problems in Leetcode platform.
 | [0345-reverse-vowels-of-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0796-rotate-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -150,6 +151,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
