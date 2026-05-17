@@ -50,6 +50,7 @@ My Solutions to the problems in Leetcode platform.
 | [1848-minimum-distance-to-the-target-element](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -152,6 +153,7 @@ My Solutions to the problems in Leetcode platform.
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
