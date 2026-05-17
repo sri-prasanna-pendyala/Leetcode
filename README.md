@@ -39,6 +39,7 @@ My Solutions to the problems in Leetcode platform.
 | [0048-rotate-image](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -92,6 +93,7 @@ My Solutions to the problems in Leetcode platform.
 | [0016-3sum-closest](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -131,6 +133,7 @@ My Solutions to the problems in Leetcode platform.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
