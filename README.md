@@ -48,6 +48,7 @@ My Solutions to the problems in Leetcode platform.
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -86,6 +87,7 @@ My Solutions to the problems in Leetcode platform.
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -106,6 +108,7 @@ My Solutions to the problems in Leetcode platform.
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
