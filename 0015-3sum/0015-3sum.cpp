@@ -1,50 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        //using 2 pointer approach
+        vector<vector<int>> res;
         sort(nums.begin(),nums.end());
-        vector<vector<int>> ans;
-        int left=INT_MAX;
-        for(int i=0;i<nums.size()-2;i++){
-            if(left==nums[i])
-                continue;
-            int j=i+1,k=nums.size()-1;
-            while(j<k){
-                if(nums[i]+nums[j]+nums[k]==0){
-                    ans.push_back({nums[i],nums[j],nums[k]});
-                    left=nums[j];
-                    while(j<nums.size() && nums[j]==left)
-                        j++;
-                    left=nums[k];
-                    while(k>j && nums[k]==left)
-                        k--;
+        int mid, end, val, start=0;
+        while(start<nums.size()){
+            int target=-nums[start];
+            mid=start+1,end=nums.size()-1;
+            while(mid<end){
+                if(nums[mid]+nums[end]==target){
+                    res.push_back({nums[start],nums[mid++],nums[end--]});
+                    while(mid<end && nums[mid]==nums[mid-1])
+                        mid++;
+                    while(end>0 && nums[end]==nums[end+1])
+                        end--;
                 }
-                else if(nums[i]+nums[j]+nums[k]>0)
-                    k--;
-                else
-                    j++;
+                else if(nums[mid]+nums[end]>target){
+                    end--;
+                    while(end>0 && nums[end]==nums[end+1])
+                        end--;
+                }
+                else{
+                    mid++;
+                }
             }
-            left=nums[i];
+            start++;
+            while(start<nums.size()-2 && nums[start]==nums[start-1])
+                start++;
         }
-        return ans;
-        // Got TLE for this code 
-        // int n=nums.size();
-        // set<vector<int>> s;
-        // unordered_map<int,int> mp;
-        // for(int i=0;i<n;i++){
-        //     mp[nums[i]]=i;
-        // }
-        // for(int i=0;i<n;i++){
-        //     for(int j=i+1;j<n;j++){
-        //         int target=0-(nums[i]+nums[j]);
-        //         if(mp.count(target) && mp[target]!=i && mp[target]!=j){
-        //             vector<int> temp={nums[i],nums[j],target};
-        //             sort(temp.begin(),temp.end());
-        //             s.insert(temp);
-        //         }
-        //     }
-        // }
-        // vector<vector<int>> vec(s.begin(),s.end());
-        // return vec;
+        return res;
     }
 };
