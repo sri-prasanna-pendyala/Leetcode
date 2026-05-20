@@ -46,6 +46,7 @@ My Solutions to the problems in Leetcode platform.
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -177,6 +178,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -188,6 +190,7 @@ My Solutions to the problems in Leetcode platform.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
@@ -237,5 +240,6 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
