@@ -26,6 +26,7 @@ My Solutions to the problems in Leetcode platform.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ My Solutions to the problems in Leetcode platform.
 | [2784-check-if-array-is-good](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
