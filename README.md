@@ -56,6 +56,7 @@ My Solutions to the problems in Leetcode platform.
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -155,6 +156,7 @@ My Solutions to the problems in Leetcode platform.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0788-rotated-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -178,6 +180,7 @@ My Solutions to the problems in Leetcode platform.
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
@@ -208,6 +211,7 @@ My Solutions to the problems in Leetcode platform.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
