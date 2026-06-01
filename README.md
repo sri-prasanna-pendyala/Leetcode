@@ -37,6 +37,7 @@ My Solutions to the problems in Leetcode platform.
 | [0881-boats-to-save-people](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ My Solutions to the problems in Leetcode platform.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
@@ -140,6 +142,7 @@ My Solutions to the problems in Leetcode platform.
 | [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Stack
