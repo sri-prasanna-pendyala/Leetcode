@@ -39,6 +39,7 @@ My Solutions to the problems in Leetcode platform.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ My Solutions to the problems in Leetcode platform.
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Two Pointers
@@ -125,6 +127,7 @@ My Solutions to the problems in Leetcode platform.
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -147,6 +150,7 @@ My Solutions to the problems in Leetcode platform.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +218,7 @@ My Solutions to the problems in Leetcode platform.
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
