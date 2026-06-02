@@ -50,6 +50,7 @@ My Solutions to the problems in Leetcode platform.
 | [0033-search-in-rotated-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -260,6 +261,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -289,4 +291,8 @@ My Solutions to the problems in Leetcode platform.
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
