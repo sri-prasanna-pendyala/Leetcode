@@ -52,6 +52,7 @@ My Solutions to the problems in Leetcode platform.
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -140,6 +141,7 @@ My Solutions to the problems in Leetcode platform.
 | [0015-3sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
