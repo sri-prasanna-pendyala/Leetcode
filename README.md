@@ -50,6 +50,7 @@ My Solutions to the problems in Leetcode platform.
 | [0018-4sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -302,4 +303,8 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
