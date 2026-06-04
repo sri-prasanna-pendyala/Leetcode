@@ -64,6 +64,7 @@ My Solutions to the problems in Leetcode platform.
 | [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -118,6 +119,7 @@ My Solutions to the problems in Leetcode platform.
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -226,6 +228,7 @@ My Solutions to the problems in Leetcode platform.
 | [0033-search-in-rotated-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -289,6 +292,7 @@ My Solutions to the problems in Leetcode platform.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
