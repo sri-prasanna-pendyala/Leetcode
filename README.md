@@ -184,6 +184,7 @@ My Solutions to the problems in Leetcode platform.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ My Solutions to the problems in Leetcode platform.
 | [0118-pascals-triangle](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
