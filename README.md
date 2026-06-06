@@ -81,6 +81,7 @@ My Solutions to the problems in Leetcode platform.
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -183,6 +184,7 @@ My Solutions to the problems in Leetcode platform.
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -322,6 +324,7 @@ My Solutions to the problems in Leetcode platform.
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
