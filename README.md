@@ -20,6 +20,7 @@ My Solutions to the problems in Leetcode platform.
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -189,6 +190,7 @@ My Solutions to the problems in Leetcode platform.
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
