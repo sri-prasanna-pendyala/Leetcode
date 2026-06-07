@@ -99,6 +99,7 @@ My Solutions to the problems in Leetcode platform.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -192,6 +193,7 @@ My Solutions to the problems in Leetcode platform.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ My Solutions to the problems in Leetcode platform.
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
