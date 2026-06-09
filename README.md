@@ -82,6 +82,7 @@ My Solutions to the problems in Leetcode platform.
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
