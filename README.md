@@ -159,6 +159,7 @@ My Solutions to the problems in Leetcode platform.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,10 +275,12 @@ My Solutions to the problems in Leetcode platform.
 | [2540-minimum-common-value](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
