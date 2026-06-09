@@ -189,6 +189,7 @@ My Solutions to the problems in Leetcode platform.
 | [0020-valid-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -324,6 +325,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Counting Sort
@@ -371,4 +373,8 @@ My Solutions to the problems in Leetcode platform.
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
