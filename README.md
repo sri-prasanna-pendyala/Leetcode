@@ -47,6 +47,7 @@ My Solutions to the problems in Leetcode platform.
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ My Solutions to the problems in Leetcode platform.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
