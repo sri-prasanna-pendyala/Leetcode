@@ -75,6 +75,7 @@ My Solutions to the problems in Leetcode platform.
 | [0287-find-the-duplicate-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -192,6 +193,7 @@ My Solutions to the problems in Leetcode platform.
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -271,6 +273,7 @@ My Solutions to the problems in Leetcode platform.
 | [0209-minimum-size-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -345,6 +348,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -381,4 +385,8 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
