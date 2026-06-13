@@ -33,6 +33,7 @@ My Solutions to the problems in Leetcode platform.
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ My Solutions to the problems in Leetcode platform.
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ My Solutions to the problems in Leetcode platform.
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
