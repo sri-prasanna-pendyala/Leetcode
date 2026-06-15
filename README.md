@@ -27,6 +27,7 @@ My Solutions to the problems in Leetcode platform.
 | [1844-replace-all-digits-with-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -212,6 +213,7 @@ My Solutions to the problems in Leetcode platform.
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ My Solutions to the problems in Leetcode platform.
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
