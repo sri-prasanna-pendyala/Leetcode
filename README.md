@@ -18,6 +18,7 @@ My Solutions to the problems in Leetcode platform.
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -44,6 +45,7 @@ My Solutions to the problems in Leetcode platform.
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -208,6 +210,7 @@ My Solutions to the problems in Leetcode platform.
 | [0769-max-chunks-to-make-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
