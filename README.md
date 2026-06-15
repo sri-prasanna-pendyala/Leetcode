@@ -161,6 +161,7 @@ My Solutions to the problems in Leetcode platform.
 | [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
@@ -407,4 +408,8 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
