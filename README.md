@@ -107,6 +107,7 @@ My Solutions to the problems in Leetcode platform.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -215,6 +216,7 @@ My Solutions to the problems in Leetcode platform.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
@@ -368,6 +370,7 @@ My Solutions to the problems in Leetcode platform.
 | [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
