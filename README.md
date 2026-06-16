@@ -101,6 +101,7 @@ My Solutions to the problems in Leetcode platform.
 | [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -219,6 +220,7 @@ My Solutions to the problems in Leetcode platform.
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -358,6 +360,7 @@ My Solutions to the problems in Leetcode platform.
 | [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
