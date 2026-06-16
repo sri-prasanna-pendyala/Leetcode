@@ -102,6 +102,7 @@ My Solutions to the problems in Leetcode platform.
 | [1051-height-checker](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -218,6 +219,7 @@ My Solutions to the problems in Leetcode platform.
 | [1021-remove-outermost-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -375,6 +377,7 @@ My Solutions to the problems in Leetcode platform.
 | [0739-daily-temperatures](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2104-sum-of-subarray-ranges](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sliding Window
