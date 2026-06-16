@@ -12,6 +12,7 @@ My Solutions to the problems in Leetcode platform.
 | [0125-valid-palindrome](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -42,6 +43,7 @@ My Solutions to the problems in Leetcode platform.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0402-remove-k-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -207,6 +209,7 @@ My Solutions to the problems in Leetcode platform.
 | [0155-min-stack](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0402-remove-k-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -374,6 +377,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0402-remove-k-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
