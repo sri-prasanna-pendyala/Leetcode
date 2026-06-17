@@ -13,6 +13,7 @@ My Solutions to the problems in Leetcode platform.
 | [0316-remove-duplicate-letters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -279,6 +280,7 @@ My Solutions to the problems in Leetcode platform.
 | [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -348,6 +350,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -423,6 +426,7 @@ My Solutions to the problems in Leetcode platform.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
