@@ -255,6 +255,7 @@ My Solutions to the problems in Leetcode platform.
 | [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0788-rotated-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
