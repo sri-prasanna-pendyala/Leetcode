@@ -111,6 +111,7 @@ My Solutions to the problems in Leetcode platform.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -330,6 +331,7 @@ My Solutions to the problems in Leetcode platform.
 | [0930-binary-subarrays-with-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
