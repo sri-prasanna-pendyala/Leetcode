@@ -10,6 +10,7 @@ My Solutions to the problems in Leetcode platform.
 | [0014-longest-common-prefix](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -75,6 +76,7 @@ My Solutions to the problems in Leetcode platform.
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -196,6 +198,7 @@ My Solutions to the problems in Leetcode platform.
 | [0015-3sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -294,6 +297,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
