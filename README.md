@@ -84,6 +84,7 @@ My Solutions to the problems in Leetcode platform.
 | [0088-merge-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0162-find-peak-element](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -300,6 +301,7 @@ My Solutions to the problems in Leetcode platform.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -502,4 +504,8 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
