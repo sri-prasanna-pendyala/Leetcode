@@ -102,6 +102,7 @@ My Solutions to the problems in Leetcode platform.
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0724-find-pivot-index](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -307,6 +308,7 @@ My Solutions to the problems in Leetcode platform.
 | [0560-subarray-sum-equals-k](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -399,6 +401,7 @@ My Solutions to the problems in Leetcode platform.
 | [0232-implement-queue-using-stacks](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0705-design-hashset](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0901-online-stock-span](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Counting Sort
@@ -468,6 +471,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -487,6 +491,7 @@ My Solutions to the problems in Leetcode platform.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0705-design-hashset/) | Easy |
+| [0706-design-hashmap](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
