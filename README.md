@@ -71,6 +71,7 @@ My Solutions to the problems in Leetcode platform.
 | [0015-3sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -164,6 +165,7 @@ My Solutions to the problems in Leetcode platform.
 | [0015-3sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
