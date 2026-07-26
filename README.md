@@ -106,6 +106,7 @@ My Solutions to the problems in Leetcode platform.
 | [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0705-design-hashset](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0705-design-hashset/) | Easy |
@@ -216,6 +217,7 @@ My Solutions to the problems in Leetcode platform.
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -280,6 +282,7 @@ My Solutions to the problems in Leetcode platform.
 | [0069-sqrtx](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0319-bulb-switcher](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
