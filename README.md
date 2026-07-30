@@ -40,6 +40,7 @@ My Solutions to the problems in Leetcode platform.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -60,6 +61,7 @@ My Solutions to the problems in Leetcode platform.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -291,6 +293,7 @@ My Solutions to the problems in Leetcode platform.
 | [2769-find-the-maximum-achievable-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
