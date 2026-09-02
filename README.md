@@ -167,6 +167,7 @@ My Solutions to the problems in Leetcode platform.
 | [3689-maximum-total-subarray-value-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@ My Solutions to the problems in Leetcode platform.
 | [3536-maximum-product-of-two-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
