@@ -166,6 +166,7 @@ My Solutions to the problems in Leetcode platform.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -306,6 +307,7 @@ My Solutions to the problems in Leetcode platform.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
