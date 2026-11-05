@@ -132,6 +132,7 @@ My Solutions to the problems in Leetcode platform.
 | [1248-count-number-of-nice-subarrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -198,6 +199,7 @@ My Solutions to the problems in Leetcode platform.
 | [0905-sort-array-by-parity](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -235,6 +237,7 @@ My Solutions to the problems in Leetcode platform.
 | [0922-sort-array-by-parity-ii](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1051-height-checker/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -368,6 +371,7 @@ My Solutions to the problems in Leetcode platform.
 | [0349-intersection-of-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0456-132-pattern](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
