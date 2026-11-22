@@ -34,6 +34,7 @@ My Solutions to the problems in Leetcode platform.
 | [1768-merge-strings-alternately](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sri-prasanna-pendyala/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
